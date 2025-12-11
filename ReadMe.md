@@ -17,7 +17,7 @@ Tasarımın çizim aşamasından üretim aşamasına kadar olan görselleri aşa
 
 |         **3D Render Görüntüsü**         |     **Simülasyon (Simulation)**     |
 | :-------------------------------------: | :---------------------------------: |
-|       ![3D Render](Image/3D.png)        | ![Real Photo](Image/Simulasyon.jpg) |
+|       ![3D Render](Image/3D.png)        | ![Simulasyon](Image/Simulasyon.png) |
 | *Bileşen yerleşimi ve soğutucu montajı* |          **Kart testleri *          |
 
 ---
