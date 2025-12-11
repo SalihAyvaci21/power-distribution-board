@@ -28,11 +28,11 @@ u kart, geniş giriş voltajı aralığı ve çift çıkış kanalı (sabit + ay
 
 | Özellik | Değer / Açıklama |
 | :--- | :--- |
-| **Giriş Voltajı** | [cite_start]7V - 30V DC [cite: 10] |
-| **Sabit Çıkış** | [cite_start]5V / 1.5A (LM7805 ile) [cite: 10, 11] |
-| **Ayarlanabilir Çıkış** | [cite_start]1.2V - 25V / 2A (LM2595-ADJ ile) [cite: 10, 11] |
-| **Koruma** | [cite_start]Ters kutup, Kısa devre, Aşırı yük koruması [cite: 10, 13] |
-| **Üretim Yöntemi** | [cite_start]Asit kazıma (Toner transfer veya UV) [cite: 10, 14] |
+| **Giriş Voltajı** | 7V - 30V DC  |
+| **Sabit Çıkış** | 5V / 1.5A (LM7805 ile)  |
+| **Ayarlanabilir Çıkış** | 1.2V - 25V / 2A (LM2595-ADJ ile)  |
+| **Koruma** | Ters kutup, Kısa devre, Aşırı yük koruması  |
+| **Üretim Yöntemi** | Asit kazıma (Toner transfer veya UV)  |
 
 ---
 
